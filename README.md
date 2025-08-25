@@ -30,6 +30,14 @@
 
 ---
 
+<h3 align="center">📫 Let's Connect!</h3>
+<p align="center">
+  <a href="https://github.com/Rashed"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/rashed"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:rashed.dev@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
 ## 🌌 Beyond the Code
 ✨ I’m not just coding — I’m **creating experiences**.  
 🧩 Every app I build is a mix of **logic, creativity, and design**.  
