@@ -1,11 +1,7 @@
 <!-- Profile Header -->
 <h1 align="center">👋Hey there, I’m Rashed<span style="color:#0A84FF;"></span></h1>
 <h3 align="center">Crafting Cross-Platform Experiences with Flutter 🚀</h3>
-
 ---
-
-
-## 🌟 Who Am I?
 💻 Aspiring **Flutter Developer** with a strong passion for building elegant, cross-platform applications.  
 📱 I dream of building apps that run seamlessly on **Android, iOS & Windows**  
 🎯 My mission: **Write once, run everywhere, without compromise**  
