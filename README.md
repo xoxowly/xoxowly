@@ -1,8 +1,6 @@
 <!-- Profile Header -->
 <h1>👋 Hey there, I'm <span style="color:#0A84FF;">Rashed</span></h1>
 
-<!-- About Section -->
-
 
 ---
 - 💻 Aspiring **Flutter Developer** with a strong passion for building elegant, cross-platform applications.
