@@ -3,9 +3,13 @@
 <h3 align="center">Crafting Cross-Platform Experiences with Flutter 🚀</h3>
 
 <!-- About Section -->
+
+
 ---
 💻 Aspiring **Flutter Developer** with a strong passion for building elegant, cross-platform applications.  
-⚡ I see apps as **stories told through design & code**  
+⚡ I see apps as **stories told through design & code**   
+🚀 Crafting Cross-Platform Experiences with Flutter
+
 
 ---
 
