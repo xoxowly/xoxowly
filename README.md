@@ -35,7 +35,6 @@
 🧩 Every app I build is a mix of **logic, creativity, and design**.  
 🎶 When I’m not coding, I explore tech trends, listen to music, and imagine the next app idea.  
 
----
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 </p>
