@@ -4,9 +4,9 @@
 
 ---
 
-<!-- About Section -->
+
 ## 🌟 Who Am I?
-💻 A passionate **Flutter Developer in the making**  
+💻 Aspiring **Flutter Developer** with a strong passion for building elegant, cross-platform applications.  
 📱 I dream of building apps that run seamlessly on **Android, iOS & Windows**  
 🎯 My mission: **Write once, run everywhere, without compromise**  
 ⚡ Fun fact: I see apps as **stories told through design & code**  
