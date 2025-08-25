@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey there, I'm <span style="color:#0A84FF;">Rashed</span></h1>
+<h1>👋 Hey there, I'm <span style="color:#0A84FF;">Rashed</span></h1>
 
 - 💻 Aspiring **Flutter Developer** with a strong passion for building elegant, cross-platform applications.
 - 🚀 Driven to craft **cross-platform** solutions that are both elegant and impactful
