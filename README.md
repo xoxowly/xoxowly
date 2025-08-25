@@ -1,22 +1,55 @@
+<!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Rashed</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">💻 Aspiring Flutter Developer | Passionate about Android, iOS & Windows Applications 🚀</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gagagagg" alt="gagagagg" /></a> </p>
+---
 
-- 🔭 I’m currently working on **Flutter App Developement**
+<!-- About Section -->
+### 🌟 About Me
+- 🌱 Currently learning **Flutter App Development**  
+- 📱 Interested in building apps for **Android, iOS, and Windows**  
+- 🎯 Goal: To craft **seamless, cross-platform applications** with modern UI/UX  
+- ⚡ Fun fact: I believe in **“Code once, run everywhere.”**  
 
-- 🌱 I’m currently learning **App Developement**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ggagaga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ggagaga" height="30" width="40" /></a>
+<!-- Tech Stack Section -->
+### 🛠️ Tech Stack & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,java,kotlin,swift,visualstudio,python,git,github" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gagagagg&show_icons=true&locale=en&layout=compact" alt="gagagagg" /></p>
+<!-- GitHub Stats Section -->
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rashed&show_icons=true&theme=radical" alt="Rashed's GitHub Stats" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rashed&theme=radical" alt="Rashed's GitHub Streak" height="160" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gagagagg&show_icons=true&locale=en" alt="gagagagg" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gagagagg&" alt="gagagagg" /></p>
+<!-- 3D Contribution Graph -->
+### 🌌 Contribution Graph (3D)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ashutosh00710/github-readme-activity-graph/master/graph/rashed/rashed-name.svg" alt="GitHub Contribution Graph" />
+</p>
+
+---
+
+<!-- Trophies Section -->
+### 🏆 GitHub Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rashed&theme=algolia&no-frame=true&row=1&column=7" />
+</p>
+
+---
+
+<!-- Connect Section -->
+### 🤝 Connect with Me
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+  <a href="mailto:YOUR-EMAIL" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
+  <a href="https://twitter.com/YOUR-TWITTER" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" height="40"/></a>
+</p>
