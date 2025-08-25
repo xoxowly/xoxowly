@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-<h1>👋 Hey there, I'm <span style="color:#0A84FF;">Rashed</span></h1>
+<h1>👋 Hey there, I'm <span style="color:#0A84FF;">Rashed</h1>
 
 
 ---
