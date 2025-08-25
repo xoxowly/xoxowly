@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-<h1 align="center">👋Hey there, I’m Rashed<span style="color:#0A84FF;">Rashed</span></h1>
+<h1 align="center">👋Hey there, I’m Rashed<span style="color:#0A84FF;"></span></h1>
 <h3 align="center">Crafting Cross-Platform Experiences with Flutter 🚀</h3>
 
 ---
