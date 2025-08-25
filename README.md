@@ -1,8 +1,3 @@
-Of course. Here is the full text for your GitHub profile README. You can copy this directly and paste it into a `README.md` file in a repository with the same name as your username.
-
-Remember to replace the placeholder text for your GitHub username, LinkedIn profile, and email address before you save it.
-
-```
 # 👋 Hi there, I'm Rashed!
 
 A passionate self-taught developer from Bangladesh, currently diving deep into the world of **Flutter app development**. My journey is focused on building beautiful, performant, and cross-platform applications for **Android**, **iOS**, and **Windows**.
@@ -64,5 +59,3 @@ I'm always open to collaborating on new projects and connecting with fellow deve
 ---
 
 > "The best way to predict the future is to create it."
-
-```
