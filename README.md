@@ -1,6 +1,5 @@
 <!-- Profile Header -->
-<h1 align="center">👋 Hey there, I'm <span style="color:#0A84FF;">𝓡𝓪𝓼𝓱𝓮𝓭</span></h1>
-<h3 align="center">Crafting Cross-Platform Experiences with Flutter 🚀</h3>
+<h1>👋 Hey there, I'm <span style="color:#0A84FF;">𝓡𝓪𝓼𝓱𝓮𝓭</span></h1>
 
 <!-- About Section -->
 
