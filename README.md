@@ -7,7 +7,7 @@
 ---
 - 💻 Aspiring Flutter Developer with a strong passion for building elegant, cross-platform applications.
 - 🚀 Driven to craft cross-platform solutions that are both elegant and impactful
-- ⚡ I see apps as *stories told through design & code*
+- ⚡ I see apps as stories told through design & code
 
 
 ---
