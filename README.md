@@ -1,55 +1,68 @@
-<!-- Profile Header -->
-<h1 align="center">Hi 👋, I'm Rashed</h1>
-<h3 align="center">💻 Aspiring Flutter Developer | Passionate about Android, iOS & Windows Applications 🚀</h3>
+Of course. Here is the full text for your GitHub profile README. You can copy this directly and paste it into a `README.md` file in a repository with the same name as your username.
+
+Remember to replace the placeholder text for your GitHub username, LinkedIn profile, and email address before you save it.
+
+```
+# 👋 Hi there, I'm Rashed!
+
+A passionate self-taught developer from Bangladesh, currently diving deep into the world of **Flutter app development**. My journey is focused on building beautiful, performant, and cross-platform applications for **Android**, **iOS**, and **Windows**.
 
 ---
 
-<!-- About Section -->
-### 🌟 About Me
-- 🌱 Currently learning **Flutter App Development**  
-- 📱 Interested in building apps for **Android, iOS, and Windows**  
-- 🎯 Goal: To craft **seamless, cross-platform applications** with modern UI/UX  
-- ⚡ Fun fact: I believe in **“Code once, run everywhere.”**  
+### 🌱 What I'm Learning & My Interests
+
+I'm constantly exploring new technologies and concepts to improve my skills. My current focus is on mastering **Dart** and the **Flutter** framework to create a single codebase for multiple platforms. I'm deeply interested in:
+
+- 📱 **Mobile Development:** Building native and hybrid applications for Android and iOS.
+- 💻 **Desktop Development:** Extending the reach of my apps to the Windows ecosystem.
+- 🚀 **UI/UX Design:** Creating intuitive and engaging user interfaces.
+- ☁️ **Cloud Services:** Integrating applications with services like Firebase.
 
 ---
 
-<!-- Tech Stack Section -->
-### 🛠️ Tech Stack & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,java,kotlin,swift,visualstudio,python,git,github" />
-</p>
+### 🛠️ My Toolbox
+
+Here are some of the languages and tools I'm currently working with:
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart Badge"/> |
+| **Frameworks** | <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter Badge"/> |
+| **Platforms** | <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android Badge"/> <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" alt="iOS Badge"/> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Badge"/> |
+| **Version Control** | <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge"/> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/> |
+| **IDE** | <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code Badge"/> |
 
 ---
 
-<!-- GitHub Stats Section -->
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rashed&show_icons=true&theme=radical" alt="Rashed's GitHub Stats" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rashed&theme=radical" alt="Rashed's GitHub Streak" height="160" />
-</p>
+### ✨ My GitHub Stats
+
+<div align="center">
+  <!-- Dynamic GitHub Stats Card -->
+  <a href="https://github.com/Rashed">
+    <img src="https://github-readme-stats.vercel.app/api?username=Rashed&show_icons=true&theme=vue-dark&hide_title=true&hide_rank=true&include_all_commits=true" alt="Rashed's GitHub Stats" />
+  </a>
+  <br/>
+  <!-- Top Languages Card -->
+  <a href="https://github.com/Rashed">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rashed&layout=compact&theme=vue-dark" alt="Rashed's Top Languages" />
+  </a>
+</div>
 
 ---
 
-<!-- 3D Contribution Graph -->
-### 🌌 Contribution Graph (3D)
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ashutosh00710/github-readme-activity-graph/master/graph/rashed/rashed-name.svg" alt="GitHub Contribution Graph" />
-</p>
+### 💬 Let's Connect!
+
+I'm always open to collaborating on new projects and connecting with fellow developers.
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN_PROFILE" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
+<a href="mailto:youremail@example.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+</a>
 
 ---
 
-<!-- Trophies Section -->
-### 🏆 GitHub Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rashed&theme=algolia&no-frame=true&row=1&column=7" />
-</p>
+> "The best way to predict the future is to create it."
 
----
-
-<!-- Connect Section -->
-### 🤝 Connect with Me
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-  <a href="mailto:YOUR-EMAIL" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
-  <a href="https://twitter.com/YOUR-TWITTER" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" height="40"/></a>
-</p>
+```
