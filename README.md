@@ -1,13 +1,13 @@
 <!-- Profile Header -->
-<h1>👋 Hey there, I'm <span style="color:#0A84FF;">𝓡𝓪𝓼𝓱𝓮𝓭</span></h1>
+<h1>👋 Hey there, I'm <span style="color:#0A84FF;">Rashed</span></h1>
 
 <!-- About Section -->
 
 
 ---
-- 💻 Aspiring Flutter Developer with a strong passion for building elegant, cross-platform applications.
-- 🚀 Driven to craft cross-platform solutions that are both elegant and impactful
-- ⚡ I see apps as stories told through design & code
+- 💻 Aspiring **Flutter Developer** with a strong passion for building elegant, cross-platform applications.
+- 🚀 Driven to craft **cross-platform** solutions that are both elegant and impactful
+- ⚡ I see apps as **stories told through design & code**
 
 
 ---
