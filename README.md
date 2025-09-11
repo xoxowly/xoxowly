@@ -23,7 +23,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="Flutter" valign="middle" />
 
   <a href="https://dart.dev/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="Dart" valign="middle" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" weight="50" alt="Dart" valign="middle" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" height="40" alt="Firebase" valign="middle" />
