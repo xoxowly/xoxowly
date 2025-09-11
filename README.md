@@ -18,23 +18,25 @@
 
 ## 📌 Tech Playground
 
-<p align="center">
-  <a href="https://flutter.dev/">
-    <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white">
-  </a>
-  <a href="https://dart.dev/">
-    <img alt="Dart" src="https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white">
-  </a>
-  <a href="https://firebase.google.com/">
-    <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=white">
-  </a>
-  <a href="https://www.mongodb.com/">
-    <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white">
-  </a>
-  <a href="https://www.java.com/">
-    <img alt="Java" src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white">
-  </a>
-</p>
+<div style="text-decoration: none;">
+  <p align="center">
+    <a href="https://flutter.dev/" style="text-decoration: none;">
+      <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white">
+    </a>
+    <a href="https://dart.dev/" style="text-decoration: none;">
+      <img alt="Dart" src="https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white">
+    </a>
+    <a href="https://firebase.google.com/" style="text-decoration: none;">
+      <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=white">
+    </a>
+    <a href="https://www.mongodb.com/" style="text-decoration: none;">
+      <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white">
+    </a>
+    <a href="https://www.java.com/" style="text-decoration: none;">
+      <img alt="Java" src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white">
+    </a>
+  </p>
+</div>
 
 ---
 
