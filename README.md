@@ -21,7 +21,7 @@
 <p align="left">
   <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="Flutter" valign="middle" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+
   <a href="https://dart.dev/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="Dart" valign="middle" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
