@@ -19,22 +19,13 @@
 ## 📌 Tech Playground
 
 <p align="center">
-  <a href="https://flutter.dev/" style="text-decoration: none;">
-    <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge">
-  </a>
-  <a href="https://dart.dev/" style="text-decoration: none;">
-    <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge">
-  </a>
-  <a href="https://firebase.google.com/" style="text-decoration: none;">
-    <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge">
-  </a>
-  <a href="https://www.mongodb.com/" style="text-decoration: none;">
-    <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge">
-  </a>
-  <a href="https://www.java.com/" style="text-decoration: none;">
-    <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge">
-  </a>
+  <img alt="Flutter Badge" src="https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+  <img alt="Dart Badge" src="https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
+  <img alt="Firebase Badge" src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
+  <img alt="MongoDB Badge" src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img alt="Java Badge" src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white">
 </p>
+
 ---
 
 <h3 align="center">📫 Let's Connect!</h3>
