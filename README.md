@@ -46,6 +46,24 @@
   </p>
 </div>
 
+<p align="center">
+  <a href="https://flutter.dev/" style="border:none; outline:none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="Flutter">
+  </a>
+  <a href="https://dart.dev/" style="border:none; outline:none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="Dart">
+  </a>
+  <a href="https://firebase.google.com/" style="border:none; outline:none;">
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" height="40" alt="Firebase">
+  </a>
+  <a href="https://www.mongodb.com/" style="border:none; outline:none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB">
+  </a>
+  <a href="https://www.java.com/" style="border:none; outline:none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java">
+  </a>
+</p>
+
 ---
 
 <h3 align="center">📫 Let's Connect!</h3>
