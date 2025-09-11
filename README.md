@@ -18,33 +18,32 @@
 
 ## 📌 Tech Playground
 
-# 📌 Tech Playground
-
-<p align="left">
-  <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="50" alt="Flutter"/>
+<p align="center">
+  <a href="https://flutter.dev/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.svg" alt="Flutter" width="48" height="48"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://dart.dev/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="50" alt="Dart"/>
+  <a href="https://dart.dev/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Dart-logo.png" alt="Dart" width="48" height="48"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="50" alt="Firebase"/>
+  <a href="https://firebase.google.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Firebase_Logo.png" alt="Firebase" width="48" height="48"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" alt="MongoDB"/>
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/MongoDB_Logo.svg" alt="MongoDB" width="48" height="48"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="50" alt="SQLite"/>
+  <a href="https://www.sqlite.org/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/SQLite3_logo_with_text.svg" alt="SQLite" width="48" height="48"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.java.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="Java"/>
+  <a href="https://www.java.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/30/Java_programming_language_logo.svg" alt="Java" width="48" height="48"/>
   </a>
 </p>
+
 
 ---
 
