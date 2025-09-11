@@ -18,52 +18,13 @@
 
 ## 📌 Tech Playground
 
-<p align="center">
-  <img alt="Flutter Badge" src="https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
-  <img alt="Dart Badge" src="https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
-  <img alt="Firebase Badge" src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
-  <img alt="MongoDB Badge" src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
-  <img alt="Java Badge" src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white">
+<p align="left">
+  <img alt="Flutter Badge" src="https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&size=50">
+  <img alt="Dart Badge" src="https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white&size=50">
+  <img alt="Firebase Badge" src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&size=50">
+  <img alt="MongoDB Badge" src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&size=50">
+  <img alt="Java Badge" src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white&size=50">
 </p>
-
-<div style="text-decoration: none;">
-  <p align="center">
-    <a href="https://flutter.dev/">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="Flutter" style="border:none;">
-    </a>
-    <a href="https://dart.dev/">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="Dart" style="border:none;">
-    </a>
-    <a href="https://firebase.google.com/">
-      <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" height="40" alt="Firebase" style="border:none;">
-    </a>
-    <a href="https://www.mongodb.com/">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" style="border:none;">
-    </a>
-    <a href="https://www.java.com/">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" style="border:none;">
-    </a>
-  </p>
-</div>
-
-<p align="center">
-  <a href="https://flutter.dev/" style="border:none; outline:none;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="Flutter">
-  </a>
-  <a href="https://dart.dev/" style="border:none; outline:none;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="Dart">
-  </a>
-  <a href="https://firebase.google.com/" style="border:none; outline:none;">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" height="40" alt="Firebase">
-  </a>
-  <a href="https://www.mongodb.com/" style="border:none; outline:none;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB">
-  </a>
-  <a href="https://www.java.com/" style="border:none; outline:none;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java">
-  </a>
-</p>
-
 ---
 
 <h3 align="center">📫 Let's Connect!</h3>
