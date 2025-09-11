@@ -18,31 +18,21 @@
 
 ## 📌 Tech Playground
 
-# 🚀 Tech Stack
-
 <p align="center">
-  <a href="https://flutter.dev/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.png" alt="Flutter" width="50" height="50"/>
+  <a href="https://flutter.dev/">
+    <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white">
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://dart.dev/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.png" alt="Dart" width="50" height="50"/>
+  <a href="https://dart.dev/">
+    <img alt="Dart" src="https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white">
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://firebase.google.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.png" alt="Firebase" width="50" height="50"/>
+  <a href="https://firebase.google.com/">
+    <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=white">
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.png" alt="MongoDB" width="50" height="50"/>
+  <a href="https://www.mongodb.com/">
+    <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white">
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.sqlite.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg" alt="SQLite" width="50" height="50"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.java.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.png" alt="Java" width="50" height="50"/>
+  <a href="https://www.java.com/">
+    <img alt="Java" src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white">
   </a>
 </p>
 
