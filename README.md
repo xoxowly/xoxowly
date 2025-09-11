@@ -19,11 +19,11 @@
 ## 📌 Tech Playground
 
 <p align="left">
-<img alt="Flutter Badge" src="https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&size=50">
-<img alt="Dart Badge" src="https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white&size=50">
-<img alt="Firebase Badge" src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&size=50">
-<img alt="MongoDB Badge" src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&size=50">
-<img alt="Java Badge" src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white&size=50">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" alt="Flutter" height="60" width="60">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" alt="Dart" height="60" width="60">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" alt="Firebase" height="60" width="60">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="MongoDB" height="60" width="60">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" height="60" width="60">
 </p>
 
 ---
