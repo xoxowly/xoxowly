@@ -26,6 +26,26 @@
   <img alt="Java Badge" src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white">
 </p>
 
+<div style="text-decoration: none;">
+  <p align="center">
+    <a href="https://flutter.dev/">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="Flutter" style="border:none;">
+    </a>
+    <a href="https://dart.dev/">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="Dart" style="border:none;">
+    </a>
+    <a href="https://firebase.google.com/">
+      <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" height="40" alt="Firebase" style="border:none;">
+    </a>
+    <a href="https://www.mongodb.com/">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" style="border:none;">
+    </a>
+    <a href="https://www.java.com/">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" style="border:none;">
+    </a>
+  </p>
+</div>
+
 ---
 
 <h3 align="center">📫 Let's Connect!</h3>
