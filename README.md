@@ -26,6 +26,26 @@
   <img alt="Java Badge" src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white&size=50">
 </p>
 
+## 📌 Tech Playground
+
+<p align="left">
+  <a href="https://flutter.dev/" style="text-decoration: none; border: none; outline: none;">
+    <img alt="Flutter Badge" src="https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+  </a>
+  <a href="https://dart.dev/" style="text-decoration: none; border: none; outline: none;">
+    <img alt="Dart Badge" src="https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
+  </a>
+  <a href="https://firebase.google.com/" style="text-decoration: none; border: none; outline: none;">
+    <img alt="Firebase Badge" src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
+  </a>
+  <a href="https://www.mongodb.com/" style="text-decoration: none; border: none; outline: none;">
+    <img alt="MongoDB Badge" src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+  </a>
+  <a href="https://www.java.com/" style="text-decoration: none; border: none; outline: none;">
+    <img alt="Java Badge" src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white">
+  </a>
+</p>
+
 ---
 ## 🌌 Beyond the Code
 ✨ I’m not just coding — I’m **creating experiences**.  
