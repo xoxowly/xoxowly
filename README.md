@@ -35,7 +35,6 @@
     <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge">
   </a>
 </p>
-
 ---
 
 <h3 align="center">📫 Let's Connect!</h3>
