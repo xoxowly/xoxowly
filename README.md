@@ -21,30 +21,31 @@
 <p align="left">
   <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
     <span>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="Flutter" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="Flutter" valign="middle" />
     </span>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://dart.dev/" target="_blank" rel="noreferrer">
     <span>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="Dart" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="Dart" valign="middle" />
     </span>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <span>
-      <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" height="40" alt="Firebase" />
+      <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" height="40" alt="Firebase" valign="middle" />
     </span>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <span>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" valign="middle" />
     </span>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.java.com/" target="_blank" rel="noreferrer">
     <span>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" valign="middle" />
     </span>
   </a>
 </p>
+
 
 ---
 
